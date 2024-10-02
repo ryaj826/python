@@ -1,0 +1,34 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <b>
+            <i>
+                hi
+            </i>
+        </b>
+    <br>
+        <label id="test">rya</label>
+        <script>
+            // alert(hi);
+            function ryahi3(){
+                alert("hi3");
+            }
+            function ryahi1(){
+                alert("hi");
+                var label = document.getElementById("test");
+                label.textContent="joshi";
+                ryahi2();
+            }
+            function ryahi2(){
+            ryahi3();
+            alert("hi2");
+            }
+            function ryahi4(){
+                alert("hi4");
+            }
+            window.onload=ryahi4;
+        </script>
+
+    </body>
+</html>

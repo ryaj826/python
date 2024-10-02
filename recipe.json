@@ -1,0 +1,33 @@
+{
+    "name":"banana cream cup cake",
+    "prep_time":20,
+    "cook_time":12,
+    "servings":12,
+    "ingredients":[
+        {
+            "name":"flour",
+            "qty":"2 cups"
+        },
+        {
+            "name":"baking soda",
+            "qty":"1 teaspoon"
+        },
+        {
+            "name":"salt",
+            "qty":"1/2 teaspoon"
+        },
+        {
+            "name":"egg",
+            "qty":"2"
+        },
+        {
+            "name":"banana",
+            "qty":"1"
+        },
+        {
+            "name":"cream",
+            "qty":"1 cup"
+        }
+
+    ]
+}

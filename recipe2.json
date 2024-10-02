@@ -1,0 +1,32 @@
+{
+    "title":"Coraline ",
+    "image":"'https://m.media-amazon.com/images/I/81JPKdfJjdL._AC_UF894,1000_QL80_.jpg'",
+    "releaseDate":2009,
+    "rating":5,
+    "price":11.99,
+    "liked":true
+},
+{
+    "title":"The Godfather",
+    "image":,
+    "releaseDate":1972,
+    "rating":2.4,
+    "price":15.50,
+    "liked":false,
+},
+{
+    "title":"Interstellar",
+    "image":,
+    "releaseDate":2014,
+    "rating":5,
+    "price":12.99,
+    "liked":true,
+},
+{
+    "title":"Oppenheimer",
+    "image":"",
+    "releaseDate":,
+    "rating":3.8,
+    "price":9.50,
+    "liked":true,
+}
